@@ -26,14 +26,14 @@ body {
   display: block;
   margin: 16px auto;
   text-align: center;
-  align-content: center;
+  
 }
 
 button {
   background: white;
   border: 1px solid #eee;
   display: block;
-  align-content: center;
+  
   padding: 5px;
   margin: 0 auto;
 }
